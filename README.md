@@ -1,4 +1,4 @@
-# Melas
+# Meals
 
 Aplikacja z przepisami na różnorodne dania.
   - aplikacja pozwala na dodanie dania do zakładki ulubione
