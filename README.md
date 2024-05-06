@@ -1,6 +1,14 @@
-# meals
+# Melas
 
-A new Flutter project.
+Aplikacja z przepisami na różnorodne dania.
+  - aplikacja pozwala na dodanie dania do zakładki ulubione
+  - pozwala na filtrowanie dań np. dla wegan
+
+![Screen_1](https://github.com/dejwid03/meals_app/blob/main/screenshots/Screenshot_1715028556.png)
+![Screen_2](https://github.com/dejwid03/meals_app/blob/main/screenshots/Screenshot_1715028564.png)
+![Screen_3](https://github.com/dejwid03/meals_app/blob/main/screenshots/Screenshot_1715028574.png)
+![Screen_4](https://github.com/dejwid03/meals_app/blob/main/screenshots/Screenshot_1715028589.png)
+![Screen_5](https://github.com/dejwid03/meals_app/blob/main/screenshots/Screenshot_1715028595.png)
 
 ## Getting Started
 
